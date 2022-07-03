@@ -1,7 +1,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/Luisbp27?label=follow&style=social)](https://github.com/Luisbp27)
 <img src="https://komarev.com/ghpvc/?username=Luisbp27&label=Profile%20views&color=59405c&style=flat" alt="Luisbp27" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F72B&lines=Hello+friend.;Welcome+to+my+space.)](https://git.io/typing-svg)
+<img src="https://i.pinimg.com/originals/9e/06/97/9e0697990828bb8319be8105c939b108.gif" alt="Luisbp27" />
 
 Sometimes I do interesting things...
 
