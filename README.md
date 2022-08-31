@@ -1,10 +1,6 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/Luisbp27?label=follow&style=social)](https://github.com/Luisbp27)
 <img src="https://komarev.com/ghpvc/?username=Luisbp27&label=Profile%20views&color=59405c&style=flat" alt="Luisbp27" />
 
-<img src="https://media2.giphy.com/media/Wsv8WZL5qODTS3cN6d/giphy.gif?cid=790b761185ed988466f7c48ea529fe909a46bc2369986036&rid=giphy.gif&ct=s" />
-
-Welcome to the jungle!
-
 ### About Projects:
 	
 <summary><b>🌟 Github Stats 🌟</b></summary>
