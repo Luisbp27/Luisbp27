@@ -11,6 +11,7 @@
 <summary><b> :fire: Github Streaks :fire: </b></summary>
 <br/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Luisbp27&hide_border=true&theme=react" />
+hide=jupyter%20notebook
 
 #
 <div align="center">
