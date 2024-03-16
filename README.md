@@ -6,11 +6,11 @@
 <summary><b>🌟 Github Stats 🌟</b></summary>
 <br/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luisbp27&show_icons=true&theme=react&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisbp27&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=react"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisbp27&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=react&hide=jupyter%20notebook"/>
 	
 <summary><b> :fire: Github Streaks :fire: </b></summary>
 <br/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Luisbp27&hide_border=true&hide=jupyter notebook&theme=react" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Luisbp27&hide_border=true&theme=react" />
 
 #
 <div align="center">
