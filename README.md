@@ -1,19 +1,38 @@
-[![GitHub Thaiane](https://img.shields.io/github/followers/Luisbp27?label=follow&style=social)](https://github.com/Luisbp27)
-<img src="https://komarev.com/ghpvc/?username=Luisbp27&label=Profile%20views&color=59405c&style=flat" alt="Luisbp27" />
+# Hola, soy Luis 👋
 
-### About Projects:
-	
-<summary><b>🌟 Github Stats 🌟</b></summary>
-<br/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luisbp27&show_icons=true&theme=react&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisbp27&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=react&hide=jupyter%20notebook"/>
-	
-<summary><b> :fire: Github Streaks :fire: </b></summary>
-<br/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Luisbp27&hide_border=true&theme=react" />
+**Data Engineer & AI Developer**
 
-#
-<div align="center">
-	
-"It's not enough to be against it, you have to be for something better"
-</div>
+Diseñando y construyendo plataformas de datos escalables y soluciones con Inteligencia Artificial.
+
+---
+
+### 🛠 Stack Tecnológico
+
+<!-- He incluido iconos que encajan con Python, IA, Bases de Datos y despliegue -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,postgres,docker,linux,git,bash,aws,mysql,mongodb,fastapi,nginx&perline=6" />
+  </a>
+</p>
+
+---
+
+### 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Enlace |
+| :--- | :--- | :--- |
+| **[Local Open-Source RAG](https://github.com/Luisbp27/documentQuestionAnswering)** | Sistema de *Retrieval-Augmented Generation* 100% local y privado. Permite la ingesta de documentos y resolución de preguntas (QA) utilizando modelos LLM de código abierto, garantizando la privacidad de los datos sin depender de APIs externas. | [Repositorio](https://github.com/Luisbp27/documentQuestionAnswering) |
+| **[PLADI: Plataforma Inteligente del Dato](https://github.com/Luisbp27/pladi)** | Arquitectura de datos aplicada al análisis territorial. Un sistema diseñado para la ingesta, procesamiento y análisis de datos geolocalizados, facilitando la toma de decisiones estratégicas basadas en el territorio. | [Repositorio](https://github.com/Luisbp27/pladi) |
+
+---
+
+### 📬 Conecta conmigo
+
+<p align="left">
+  <a href="https://linkedin.com/in/luisbarcapons" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="mailto:luisbarcapons@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40" />
+  </a>
+</p>
